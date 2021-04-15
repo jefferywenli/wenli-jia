@@ -1,4 +1,4 @@
-🔭 I’m currently a Master student at University Of Electronic Science And Technology Of China(电子科技大学).
+🔭 I’m currently a Master student at University Of Electronic Science And Technology Of China(电子科技大学).\n
 📚 I'm from Data Mining Lab(dm.uestc.edu.cn)
 🌱 I’m currently doing research on Fedrated Learning.
 💬 Ask me about more.
