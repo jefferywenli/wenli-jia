@@ -2,7 +2,7 @@
 
 📚 I'm from Data Mining Lab(dm.uestc.edu.cn). 
 
-🌱 I’m currently doing research on Fedrated Learning.  
+🌱 I’m currently doing research on Federated Learning.  
 
 💬 Ask me about more.  
 
